@@ -1,0 +1,6 @@
+[plugin]
+name="procterr"
+description="A custom node made to extend the Godot Engine."
+author="Foldover"
+version="1.0"
+script="terrain_editor.gd"
